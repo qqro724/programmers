@@ -1,6 +1,2 @@
-###틀린문제
-
-
-a, b = map(int, input().strip().split(' '))
-
-print(f"{a} + {b} = {a + b}")
+a, b = str(map(int, input().strip().split(' ')))
+print return a,b
